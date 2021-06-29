@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vi Hieu Nguyen
+- 👋 Hi, I’m Vi Hieu Nguyen.
 - 👀 I'm interested in computer programming, especially Java, Python, and R.
 - 🌱 I’m currently pursuing a Bachelor of Information Technology with a major in Data Science at Macquarie University.
 - 💞️ My focus is on data science projects or any AI-related topics.
